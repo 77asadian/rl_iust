@@ -8,6 +8,7 @@ Welcome to the repository for the Reinforcement Learning (RL) course at IUST Uni
 - **Teaching Assistant**: Hamidreza Asadian
 - **Email**: [rliust2024@gmail.com](mailto:rliust2024@gmail.com)
 - **Class Time**: Every Thursday at 18:00
+- - **Attendance**: [Rollout and Grades Spreadsheet](https://docs.google.com/spreadsheets/d/1UXLkvYH6iG5SfcJ0uimp8pURjXDFrhbou3y2cV0d598/edit?usp=sharing)
 
 ## Description
 
